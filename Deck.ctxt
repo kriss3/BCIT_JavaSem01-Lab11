@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ loadDeck()
+comment0.text=\r\n\ Public\ method\ to\ load\ all\ combination\ of\ card\ and\ store\ it\ in\ a\ deck;\r\n
+comment1.params=
+comment1.target=void\ printDeck()
+comment1.text=\r\n\ Public\ method\ to\ print\ content\ of\ a\ deck\ ArrayList;<br>\r\n\ It\ does\ not\ take\ parameters,\ it\ does\ not\ return\ value;<br>\r\n\ Print\ Error\ when\ cards\ are\ not\ loaded\ to\ the\ deck\ of\ cards;\r\n
+comment2.params=i
+comment2.target=void\ removeCard(int)
+comment2.text=\r\n\ Public\ method\ to\ remove\ an\ element\ from\ the\ Deck\ of\ Cards;\r\n\ @param\ takes\ i\ as\ integer;\ index\ parameter\ of\ element\ to\ be\ removed\ from\ the\ Desck\ of\ cards;\r\n
+comment3.params=suitName
+comment3.target=void\ removeBySuit(java.lang.String)
+comment3.text=\r\n\ Public\ method\ to\ remove\ all\ cards\ with\ Suite\ from\ the\ Deck\ of\ Cards;\r\n\ @param\ takes\ suitName\ parameter\ as\ String;\r\n
+comment4.params=suitName
+comment4.target=void\ removeBySuiteUsingForLoop(java.lang.String)
+comment4.text=\r\n\ Public\ method\ to\ remove\ all\ cards\ with\ Suite\ from\ the\ Deck\ of\ Cards;<br>\r\n\ This\ method\ does\ not\ use\ while\ loop;<br>\r\n\ @param\ takes\ suitName\ parameter\ as\ String;\r\n
+comment5.params=suitName
+comment5.target=void\ removeSuitUsingLambda(java.lang.String)
+comment5.text=\r\n\ Public\ method\ to\ remove\ all\ cards\ with\ Suite\ from\ the\ Deck\ of\ Cards;<br>\r\n\ This\ method\ uses\ lambda\ expression\ to\ remove\ item\ from\ collection\ based\ on\ parameter;<br>\r\n\ @param\ takes\ suitName\ parameter\ as\ String;\r\n
+comment6.params=
+comment6.target=void\ printDeckWithLambda()
+comment6.text=\r\n\ Public\ method\ to\ print\ content\ of\ a\ deck;<br>\r\n\ It\ does\ not\ take\ parameters,\ it\ does\ not\ return\ value;<br>\r\n\ It\ uses\ lambda\ expression\ +\ forEach\ method\ to\ print\ content\ of\ collection;\r\n
+numComments=7

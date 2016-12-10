@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=suite\ description
+comment0.target=Card(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Default\ constructor\ to\ create\ a\ card\ object;\r\n
+comment1.params=
+comment1.target=java.lang.String\ getSuit()
+comment1.text=\r\n\ Public\ method\ to\ get\ suit\ of\ a\ card;\r\n\ @return\ return\ suit\ as\ String;\r\n
+comment2.params=value
+comment2.target=void\ setSuit(java.lang.String)
+comment2.text=\r\n\ Public\ method\ to\ set\ suit\ of\ a\ card;\r\n\ @param\ takes\ parameter\ value\ as\ String;\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\r\n\ Public\ method\ to\ get\ description\ of\ a\ card;\r\n\ @return\ return\ description\ as\ String;\r\n
+comment4.params=value
+comment4.target=void\ setDescription(java.lang.String)
+comment4.text=\r\n\ Public\ method\ to\ set\ description\ of\ a\ card;\r\n\ @param\ takes\ parameter\ value\ as\ String;\r\n
+numComments=5
